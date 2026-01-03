@@ -4,8 +4,7 @@
 
 Welcome to the **Captain's Master Dashboard**—a highly customized, pirate-themed start page for your browser, inspired by *Pirates of the Caribbean*. It combines high-tech web features with the gritty aesthetic of the Black Pearl.
 
-![Dashboard Preview](dashboard_preview.png)
-*(Note: You can add a screenshot here)*
+![Dashboard Preview](image.png)
 
 ## ⚓ Features
 
